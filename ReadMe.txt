@@ -12,6 +12,10 @@ https://drive.google.com/file/d/1uhKYUKQcO2R6adYhdkkUmStS6NE-rhwG/view
 or
 https://www.mediafire.com/file/niwukuyvshft3hv/School_managmet_system.rar/file
 
+Usage:
+the following youtube vedeo explain the usage of this application
+https://youtu.be/c_nPG8hUL9w
+
 Built With:
 Qt creator ide
 C++ programing language 
